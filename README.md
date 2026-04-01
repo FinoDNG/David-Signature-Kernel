@@ -23,3 +23,5 @@ L'exactitude du modèle a été validée par :
 
 ## ⚖️ Licence
 Ce projet est sous licence **GNU GPL v3**.
+
+Publication officielle :https://doi.org/10.5281/zenodo.19297934
