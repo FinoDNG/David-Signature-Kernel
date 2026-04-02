@@ -17,14 +17,14 @@ L'opérateur de Signature $\mathcal{S}(n)$ a été testé sur les $10^6$ premier
 > **Note :** La rigidité fractale observée à 56,20% confirme un verrou arithmétique déterministe sur l'attracteur $a_0 \equiv 1 \pmod 9$.
 ### 📚 Corpus de Recherche : La Signature de David
 
-Mes travaux portent sur l'identification de structures déterministes au sein de systèmes complexes et de suites arithmétiques (Riemann, 3-adique).
+Mes travaux portent sur l'identification de structures déterministes au sein de systèmes complexes et de suites arithmétiques.
 
 | Publication | Focus Technique | Impact Statistique | Lien Zenodo |
 | :--- | :--- | :--- | :---: |
-| **Signature de David sur Riemann** | Rigidité fractale des zéros | **+38 σ** | [Accéder](https://doi.org/10.5281/zenodo.10515152) |
-| **Kernel Arithmétique v2** | Projection 3-adique & Convergence | Convergence 56,20% | [Accéder](https://doi.org/10.5281/zenodo.10513470) |
-| **Analyse des Systèmes Chaotiques** | Détection de signaux faibles | Audit de robustesse | [Accéder](https://doi.org/10.5281/zenodo.10495819) |
-| **Fondements du Kernel** | Algorithme de signature initiale | Base théorique | [Accéder](https://doi.org/10.5281/zenodo.10443360) |
+| **Signature de David sur Riemann** | Rigidité fractale des zéros | **+38 σ** | [Accéder](https://doi.org/10.5281/zenodo.19374007) |
+| **Kernel Arithmétique v2** | Projection 3-adique & Convergence | Convergence 56,20% | [Accéder](https://doi.org/10.5281/zenodo.19340348) |
+| **Analyse des Systèmes Chaotiques** | Détection de signaux faibles | Audit de robustesse | [Accéder](https://doi.org/10.5281/zenodo.19297934) |
+| **Fondements du Kernel** | Algorithme de signature initiale | Base théorique | [Accéder](https://doi.org/10.5281/zenodo.18868096) |
 
 ## 🔬 Fondements Théoriques
 Le modèle utilise l'opérateur $\mathcal{S}(n)$ pour projeter des ensembles de données de haute dimension vers un anneau fini $\mathbb{Z}_9$. 
