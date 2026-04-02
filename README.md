@@ -15,6 +15,7 @@ L'opérateur de Signature $\mathcal{S}(n)$ a été testé sur les $10^6$ premier
 | **Probabilité d'erreur ($p$-value)** | 1.0 | $< 10^{-15}$ | **Négligeable** |
 
 > **Note :** La rigidité fractale observée à 56,20% confirme un verrou arithmétique déterministe sur l'attracteur $a_0 \equiv 1 \pmod 9$.
+> 📚 Corpus de Recherche : La Signature de DavidMes travaux portent sur l'identification de structures déterministes au sein de systèmes complexes et de suites arithmétiques (Riemann, 3-adique).PublicationFocus TechniqueImpact StatistiqueLien ZenodoSignature de David sur RiemannRigidité fractale des zéros+38 $\sigma$AccéderKernel Arithmétique v2Projection 3-adique & ConvergenceConvergence 56,20%AccéderAnalyse des Systèmes ChaotiquesDétection de signaux faiblesAudit de robustesseAccéderFondements du KernelAlgorithme de signature initialeBase théoriqueAccéder
 
 ## 🔬 Fondements Théoriques
 Le modèle utilise l'opérateur $\mathcal{S}(n)$ pour projeter des ensembles de données de haute dimension vers un anneau fini $\mathbb{Z}_9$. 
